@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bienvenue sur mon GitHub ! 👋
 
-<!--
-**Benjy567/Benjy567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur passionné par la création de solutions logicielles et le partage de mes projets. Vous trouverez ici une collection de mes travaux, allant des petits projets personnels aux contributions à des projets open source.
 
-Here are some ideas to get you started:
+## À propos de moi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Localisation : [Ta ville, Ton pays]
+- 🎓 Études : [Nom de ton école/université]
+- 💻 Langages de programmation : Python, JavaScript, C++, etc.
+- 🌱 Actuellement en train d'apprendre : Machine Learning, Blockchain, etc.
+- 📫 Comment me contacter : [Ton email / réseaux sociaux]
+
+N'hésitez pas à explorer mes projets et à me poser des questions ou à faire des suggestions !
